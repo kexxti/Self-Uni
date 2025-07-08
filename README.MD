@@ -1,4 +1,4 @@
-# Stepik Uni
+# Self Uni
 
 > В интернете вы можете научиться всему бесплатно <br>
 ©[VladTen](https://t.me/tenfoundation)
